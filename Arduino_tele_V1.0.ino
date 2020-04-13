@@ -1,8 +1,8 @@
-/* MAVLInk_DroneLights
- *  by Juan Pedro López
+/* Arduino telemtry based on LoRa
+ *  by Bhaskar Dutt
  *  
- * This program was developed to connect an Arduino board with a Pixhawk via MAVLink 
- *   with the objective of controlling a group of WS2812B LED lights on board of a quad
+ * This program was developed to connect an Arduino+Lora(over UART) with a flight Controller via MAVLink 
+ *   with the objective of injecting RTCM correction on board of a quad.
  * 
  * The current version of the program is working properly.
  * 
